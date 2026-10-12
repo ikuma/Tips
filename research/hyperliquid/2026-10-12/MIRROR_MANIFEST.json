@@ -1,0 +1,122 @@
+{
+  "study_version": "2026-10-12",
+  "public_repository": "ikuma/Tips",
+  "relative_directory": "research/hyperliquid/2026-10-12/",
+  "complete_archive": "https://hl-reference-research-20261012.jovialcat.chatgpt.site",
+  "files": [
+    {
+      "path": "reference/README.md",
+      "chars": 4016,
+      "bytes": 8695,
+      "sha256": "079cd94f121e7bfc07db7240fecbffa782b3a7edd082fe607c1d4832b5e15b11"
+    },
+    {
+      "path": "reference/report_ja.txt",
+      "chars": 6017,
+      "bytes": 7795,
+      "sha256": "c7c3936ad2728abe62c3906414f2ab17d7c270a4b94112a1130fa51b0800aa3a"
+    },
+    {
+      "path": "reference/HL_reference_indicator_summary_2026-10-12.csv",
+      "chars": 8050,
+      "bytes": 8050,
+      "sha256": "c50f020869b7bf8b52e7f79904fb35e89c6bb0302f10ee6ae05b1cfe46a9a4b6"
+    },
+    {
+      "path": "reference/reference_study.py",
+      "chars": 25511,
+      "bytes": 25511,
+      "sha256": "295f224cb06bea67dff42c18558113a214540c2c091bf5030e5298f4061fc330"
+    },
+    {
+      "path": "reference/reference_config.json",
+      "chars": 1170,
+      "bytes": 1170,
+      "sha256": "20eafd32c1e617c13db8b7f9a4ef65c4299f78d66ce77f9f006ee3032c3371fa"
+    },
+    {
+      "path": "reference/test_reference.py",
+      "chars": 2196,
+      "bytes": 2196,
+      "sha256": "d502f737af3b5b2bdeb8d4defc797f8378cae62ce60b3086e1a17c0aab5d65bf"
+    },
+    {
+      "path": "reference/base_research.py",
+      "chars": 23714,
+      "bytes": 23714,
+      "sha256": "3768c2eca0231f272c1329b8ef4bbd873cd0e5a57be349780aef54acbca76e4d"
+    },
+    {
+      "path": "reference/fetch_data.py",
+      "chars": 7780,
+      "bytes": 7780,
+      "sha256": "feb56caa1d640c7326ad0722a5af89089532bbfcc1550b922bd94efcd3e735ec"
+    },
+    {
+      "path": "reference/config.json",
+      "chars": 1251,
+      "bytes": 1251,
+      "sha256": "7c58676da85c5c307f14da00d76a1fea1eeb7ed4e2569920d9ed916e151be179"
+    },
+    {
+      "path": "reference/requirements.txt",
+      "chars": 41,
+      "bytes": 41,
+      "sha256": "65b97f7db87e4cdcb0f4157240cfece5b48363b3e6a18fdccf72d6528ebcbf85"
+    },
+    {
+      "path": "reference/make_report.py",
+      "chars": 4091,
+      "bytes": 5869,
+      "sha256": "41b05b16c941b7f4c75c6fc0a9f0e09cc9fe2e7443f56fbb3261bb4d569b25ce"
+    },
+    {
+      "path": "reference/reference_results/paired_event_comparisons.csv",
+      "chars": 347056,
+      "bytes": 347056,
+      "sha256": "8a4c39d14ea4b8effc161a3f06563d01b9b6de90a51257923ca4493a29804238"
+    },
+    {
+      "path": "reference/reference_results/paired_frozen_clock_comparisons.csv",
+      "chars": 86063,
+      "bytes": 86063,
+      "sha256": "871fc1482eff3e15bebcbca30190a5b060250e609e3f923e9910d29049907fd0"
+    },
+    {
+      "path": "reference/reference_results/adjusted_associations_nonlinear.csv",
+      "chars": 93162,
+      "bytes": 93162,
+      "sha256": "2044eea5fc2c95d0b40638b3af597fd72c390bb3baa52eb19c04addb5f3c4de2"
+    },
+    {
+      "path": "reference/reference_results/coverage.csv",
+      "chars": 3869,
+      "bytes": 3869,
+      "sha256": "feb6675af128f4ed31ca94e2c7acb0888ce3cefe1ff4eae5947ef7aa659e3f4a"
+    },
+    {
+      "path": "reference/reference_results/verification.json",
+      "chars": 298,
+      "bytes": 298,
+      "sha256": "0b482657f8896daa0458dcb09ee5c3248475c7a4bdc43a5a62ae8b88fe7eeb89"
+    },
+    {
+      "path": "original/README.md",
+      "chars": 6046,
+      "bytes": 12836,
+      "sha256": "c6769375977d39cd595ca5e61138f73cb54a3d4e39ab34b33a467a026c968b2e"
+    },
+    {
+      "path": "original/summary_ja.txt",
+      "chars": 6812,
+      "bytes": 7954,
+      "sha256": "8252f4dfa0f41fbd9cda8ec78ae08c1fe74195f75b7b7b52f4589baf429788f7"
+    },
+    {
+      "path": "original/results/summary_results.csv",
+      "chars": 4764,
+      "bytes": 4764,
+      "sha256": "2f1632e2a48615a4ece04554a8263c0e77ca2ce6e15ed2222c1f93f95592507e"
+    }
+  ]
+}
