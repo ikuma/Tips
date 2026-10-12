@@ -1,0 +1,10 @@
+{
+  "source_hashes_verified": 100,
+  "fixed_trade_rows": 43162,
+  "entries_per_event_rule_exit_bound_max": 1,
+  "all_TP_net_positive": true,
+  "ordered_intrabar_bounds": true,
+  "unobserved_tail_inference_suppressed": true,
+  "primary_independent_events": 76,
+  "independent_1m_events_primary": 3
+}
